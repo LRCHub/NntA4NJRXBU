@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コドモノママデ（20）",
+  "base_artist": "mihoro*",
+  "createdAt": "2026-02-08T12:22:25.061071Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コドモノママデ(20)",
+      "artist": "mihoro*",
+      "has_synced": false,
+      "path": "select/pl_01_コドモノママデ(20)_mihoro.txt"
+    }
+  ]
+}
